@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Italy </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomo-folli&label=Profile%20views&color=0e75b6&style=flat" alt="giacomofolli" /> </p>
 
-- 👨‍💻 In november 2023 started my web dev journey at LH. I'm currently working on some project as freelancer and finishing my bachelor's degree in IT Engineering <br>
+- 👨‍💻 In november 2023 started my web dev journey at [LH](https://likablehair.it/). I'm currently working on some project as freelancer and finishing my bachelor's degree in IT Engineering <br>
 
 - 🌱 I’m currently learning Go and networking <br>
 
