@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Go and networking <br>
 
-- 👨‍💻 Some of my projects are available at my personal website [paco.app](https://paco-fol.vercel.app) <br>
+- 👨‍💻 Some of my projects are available at my personal website [paco.app](https://paco-folli.vercel.app/) <br>
 
 - 📫 How to reach me **giacomofolli01@gmail.com** or <a href="https://linkedin.com/in/giacomo-folli" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-dodi" height="30" width="40" /></a>
