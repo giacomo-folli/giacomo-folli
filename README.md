@@ -6,7 +6,7 @@
 
 - 📷 I like to contribute to Unsplash catalog of open source photos. You can find my work [here](https://unsplash.com/it/@giacomofolli)
 
-- 🌱 I’m currently learning Go and networking <br>
+- 🌱 I’m currently learning Go and computer networks <br>
 
 - 👨‍💻 Some of my projects are available at my personal website [paco.app](https://paco-folli.vercel.app/) <br>
 
