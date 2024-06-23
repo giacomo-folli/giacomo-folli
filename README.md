@@ -4,6 +4,8 @@
 
 - 👨‍💻 In november 2023 started my web dev journey at [LH](https://likablehair.it/). I'm currently working on some project as freelancer and finishing my bachelor's degree in IT Engineering <br>
 
+- 📷 I like to contribute to Unsplash catalog of open source photos. You can find my work [here](https://unsplash.com/it/@giacomofolli)
+
 - 🌱 I’m currently learning Go and networking <br>
 
 - 👨‍💻 Some of my projects are available at my personal website [paco.app](https://paco-folli.vercel.app/) <br>
