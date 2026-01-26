@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Go and computer networks <br>
 
-- ✍ Sometimes I write on [https://paco.bearblog.dev/](https://paco.bearblog.dev/)<br>
+- ✍ Sometimes I write on [paco.bearblog.dev](https://paco.bearblog.dev/)<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
