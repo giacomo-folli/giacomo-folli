@@ -8,12 +8,7 @@
 
 - 🌱 I’m currently learning Go and computer networks <br>
 
-- ✍ Sometimes I write on [paco.bearblog.dev](https://paco.bearblog.dev/)<br>
-
-<!-- - 👨‍💻 Some of my projects are available at [bearblog](https://paco.bearblog.dev/) *(updating...)* <br> -->
-
-- 📫 How to reach me **giacomofolli01@gmail.com** or <a href="https://linkedin.com/in/giacomo-folli" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-dodi" height="20" width="20" /></a>
+- ✍ Sometimes I write on [https://paco.bearblog.dev/](https://paco.bearblog.dev/)<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
